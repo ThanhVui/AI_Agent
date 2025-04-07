@@ -13,4 +13,4 @@ b. Ngrok:
 
 Setup command:
 - Setup n8n: curl -L https://bit.ly/n8n_install_noai | sh
-- Run n8n with ngrok: sh <(curl -L https://bit.ly/n8n_with_ngrok)
+- Run n8n with ngrok: sh <([curl -L https://bit.ly/n8n_with_ngrok](https://ngrok.com/))
